@@ -1,7 +1,7 @@
 # Hello-Microverse
 
 
-> Description the project.
+> Hello Microverse page.
 
 
 ## Built With
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **George kinyanjui**
 
-- GitHub: [@george827]([https://github.com/githubhandle](https://github.com/george827))
+- GitHub: [@george827](https://github.com/george827)
 
 
 ## Acknowledgments
