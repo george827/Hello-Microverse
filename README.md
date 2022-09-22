@@ -20,7 +20,7 @@
 
 ## Acknowledgments
 - Inspiration
-- Microverse
+- [Microverse](https://github.com/microverseinc)
 
 
 ## 📝 License
